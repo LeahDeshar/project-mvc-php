@@ -30,3 +30,6 @@ class Router
         return $this->routes;
     }
 }
+
+
+// see the security level of the function
