@@ -14,4 +14,8 @@ class PageController
     {
         echo "This is contact page!";
     }
+    public function contactPost()
+    {
+        echo "This is a contact post";
+    }
 }

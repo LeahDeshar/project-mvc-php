@@ -52,4 +52,4 @@ class Router
 }
 
 
-// see the security level of the function
+// see the security level of the function to make the application more secure
