@@ -7,6 +7,7 @@ use App\Controllers\PageController;
 $router->get('/', PageController::class . '@index');
 $router->get('/contact', PageController::class . '@contact');
 $router->post('/contact', PageController::class . '@contactPost');
+// $router->post('/contact', PageController::class . '@contactPost');
 
 //$router->get('/features', PageController::class . '@features');
 //$router->get('/about', PageController::class . '@about');
